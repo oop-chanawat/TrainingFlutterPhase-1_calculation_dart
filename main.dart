@@ -26,7 +26,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
 
   double firstnum = 0;
-  double secondnum = 0;
+  double totalnum = 0;
   String texttodisplay = '';
   String res = '';
   String operatortoperform = '';
